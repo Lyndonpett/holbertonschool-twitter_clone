@@ -25,7 +25,7 @@ class _NotificationsScreenState extends State<NotificationsScreen> {
                 children: [
                   const CircleAvatar(
                     backgroundImage: NetworkImage(
-                        'http://static.wikia.nocookie.net/blossom/images/e/ed/Mange.png/revision/latest?cb=20140731004033'),
+                        'https://cdn-icons-png.flaticon.com/512/3177/3177440.png'),
                     radius: 20,
                   ),
                   Flexible(

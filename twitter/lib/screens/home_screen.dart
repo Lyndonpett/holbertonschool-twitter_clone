@@ -28,7 +28,7 @@ class _HomeScreenState extends State<HomeScreen> {
         name: 'Vader',
         username: 'Darth',
         imgUrl:
-            'https://static.wikia.nocookie.net/blossom/images/e/ed/Mange.png/revision/latest?cb=20140731004033',
+            'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/darth-vader-1549906397.jpg',
         postText: 'I am altering the deal. Pray I don’t alter it any further.',
       ),
     );

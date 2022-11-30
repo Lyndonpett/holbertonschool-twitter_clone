@@ -26,7 +26,7 @@ class _SearchScreenState extends State<SearchScreen> {
                     padding: const EdgeInsets.fromLTRB(10, 20, 20, 20),
                     child: const CircleAvatar(
                       backgroundImage: NetworkImage(
-                          'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png'),
+                          'https://cdn-icons-png.flaticon.com/512/3177/3177440.png'),
                       radius: 20,
                     )),
                 Flexible(
